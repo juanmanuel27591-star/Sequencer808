@@ -5,6 +5,13 @@ Roland TR-808, built with C++ and JUCE.
 
 ![Screenshot](screenshot.png)
 
+## Try it
+
+Download `Sequencer808.zip` from the Releases page,
+unzip it and run `Sequencer808.exe`. Windows may show a
+SmartScreen warning because the app is not code-signed:
+click "More info" and then "Run anyway".
+
 ## Features
 
 - 16-step grid for Kick, Snare, Closed Hi-Hat
